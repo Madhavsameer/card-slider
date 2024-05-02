@@ -1,0 +1,10 @@
+.card {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .slick-prev:before,
+  .slick-next:before {
+    color: black;
+  }
+  
